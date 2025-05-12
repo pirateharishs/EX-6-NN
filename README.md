@@ -1,5 +1,5 @@
-H3>ENTER YOUR NAME: HARISH S</H3>
-<H3>ENTER YOUR REGISTER NO: 212223230071</H3>
+## NAME: HARISH S
+## REG-NO:212223230071
 <H3>EX. NO.6</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
